@@ -13,6 +13,7 @@ Outputs:
 
 
 
+To run the code in Usage_example/, first download the data archive from zenodo (https://zenodo.org/records/14802397), then place this unzipped archive in a folder 'pp_archive/' at the root of this project directory.  
 
 
 
