@@ -23,6 +23,9 @@ To run the code in Usage_example/, first download the data archive from zenodo (
 #### A note on calendars
 UKESM uses a 360 day calendar, so there is no need to apply month weights when calculating annual means. For CESM2 and others, we do need to do this, hence the additional step in meaning in these scripts, using month weighting functions (in utils.py).
 
+#### A note on ensemble members and run lengths
+for CESM2-WACCM ARISE simulations, the accompanying SSP2-4.5 runs have varying length. In the timeseries outputs, where we retain an ensemble_member dimension, this means some members have nan values for some time points. 
+
 #### Variables
 
 For UKESM1, the following variables are included:
