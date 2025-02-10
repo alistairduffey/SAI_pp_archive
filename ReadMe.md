@@ -97,5 +97,7 @@ For CESM2-WACCM ARISE simualtions, a shorter subset variables is included (the 1
 | Amon.tas       | Surface     | Near-Surface Air Temperature                             | K           | air_temperature                                   |
 | SImon.siconca  | Sea ice     | Sea-ice area percentage (atmospheric grid)               | %           | sea_ice_area_fraction                              |
 
+Note that the CESM2-WACCM ARISE simulations are not CMOR-ized. We leave the data under its original CESM naming conventions in the archive, so that variable names differ for these simulations (from the above table, and from the other simulations). 
+
 For the G6sulfur simulations, variables from the list above are included depending on availability on the CEDA ESGF data node. 
 
