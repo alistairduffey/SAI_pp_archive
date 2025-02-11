@@ -1,6 +1,8 @@
 ### An archive of pre-processed SAI simulations
 
-This repository contains code to post-process common SAI simulations into a small (~1GB), user-friendly, archive of data in an analysis-ready format. It also has a usage example notebook, showing how to use this pre-procesed archive to derive some common analyses of SAI scenarios. 
+This repository contains code to post-process common SAI simulations into a small (~1GB), user-friendly, archive of data in an analysis-ready format. 
+
+For a quick summary of how to use the data, see the usage example notebook (pp_archive_usage_example.ipynb), which shows how to use this pre-procesed archive to derive some common analyses of SAI scenarios. 
 
 
 Inputs:
