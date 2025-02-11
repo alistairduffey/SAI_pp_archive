@@ -2,6 +2,8 @@
 
 This repository contains code to post-process common SAI simulations into a small (~1GB), user-friendly, archive of data in an analysis-ready format. 
 
+The data itself is not contained here, but is stored on [Zenodo] (https://zenodo.org/records/14802397)
+
 For a quick summary of how to use the data, see the usage example notebook (pp_archive_usage_example.ipynb), which shows how to use this pre-procesed archive to derive some common analyses of SAI scenarios. 
 
 
